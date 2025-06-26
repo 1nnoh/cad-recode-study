@@ -3,6 +3,7 @@
 :hugs: Model [v1](https://huggingface.co/filapro/cad-recode), [v1.5](https://huggingface.co/filapro/cad-recode-v1.5) :hugs: ZeroGPU Space [v1.5](https://huggingface.co/spaces/filapro/cad-recode) :hugs: Dataset [v1](https://huggingface.co/datasets/filapro/cad-recode), [v1.5](https://huggingface.co/datasets/filapro/cad-recode-v1.5)
 
 **News**:
+ * :fire: June, 2025. CAD-Recode is accepted at ICCV 2025.
  * :rocket: March, 2025. We update CAD-Recode to v1.5. More details in [changelog](CHANGELOG.md).
  * :fire: December, 2024. CAD-Recode is state-of-the-art in three CAD reconstruction benchmarks: <br>
   DeepCAD [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cad-recode-reverse-engineering-cad-code-from/cad-reconstruction-on-deepcad)](https://paperswithcode.com/sota/cad-reconstruction-on-deepcad?p=cad-recode-reverse-engineering-cad-code-from) <br>

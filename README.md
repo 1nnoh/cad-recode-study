@@ -1,6 +1,6 @@
 ## CAD-Recode: Reverse Engineering CAD Code from Point Clouds
 
-:hugs: Model [v1](https://huggingface.co/filapro/cad-recode), [v1.5](https://huggingface.co/filapro/cad-recode-v1.5) :hugs: ZeroGPU Space [v1.5](https://huggingface.co/spaces/filapro/cad-recode) :hugs: Dataset [v1](https://huggingface.co/datasets/filapro/cad-recode), [v1.5](https://huggingface.co/datasets/filapro/cad-recode-v1.5) :globe_with_meridians: Project [Page](https://cad-recode.github.io/)
+:hugs: Model [v1](https://huggingface.co/filapro/cad-recode), [v1.5](https://huggingface.co/filapro/cad-recode-v1.5), [cadrille](https://github.com/col14m/cadrille) :hugs: ZeroGPU Space [v1.5](https://huggingface.co/spaces/filapro/cad-recode) :hugs: Dataset [v1](https://huggingface.co/datasets/filapro/cad-recode), [v1.5](https://huggingface.co/datasets/filapro/cad-recode-v1.5) :globe_with_meridians: Project [Page](https://cad-recode.github.io/)
 
 **News**:
  * :fire: June, 2025. CAD-Recode is accepted at ICCV 2025.
